@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 ### `npm run serve`
 
-Launches the back.\
+Launches the back.
