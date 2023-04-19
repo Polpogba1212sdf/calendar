@@ -77,7 +77,7 @@ export const LabelWrapper = styled('label')`
   margin-right: 5px;
 `;
 
-export const url = process.env.API_URL ? process.env.API_URL : 'http://localhost:3001'
+export const url = 'http://localhost:3001'
 const totalDays = 49
 const defaultEvent = {
   title: '',
