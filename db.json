@@ -1,0 +1,73 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Go to the bad 1",
+      "description": "Slowly",
+      "date": 1680610721,
+      "labels": [
+        "green",
+        "orange",
+        "yellow"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Clean the house",
+      "description": "Slowly 2",
+      "date": 1680610722,
+      "labels": [
+        "aqua",
+        "blue",
+        "yellow",
+        "orange"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Go to the bad march",
+      "description": "Slowly 2",
+      "date": 1677938437,
+      "labels": []
+    },
+    {
+      "id": 4,
+      "title": "Go to the bad may",
+      "description": "Slowly 2",
+      "date": 1684072837,
+      "labels": []
+    },
+    {
+      "title": "task2",
+      "description": "task2 descr",
+      "date": "1680698852",
+      "id": 9,
+      "labels": [
+        "green",
+        "orange",
+        "yellow",
+        "blue",
+        "aqua"
+      ]
+    },
+    {
+      "title": "go to work",
+      "description": "go to work",
+      "date": "1681246800",
+      "labels": [
+        "aqua"
+      ],
+      "id": 27
+    },
+    {
+      "title": "happy birthday",
+      "description": "family birthday",
+      "date": "1680469200",
+      "labels": [
+        "aqua",
+        "green"
+      ],
+      "id": 31
+    }
+  ]
+}
